@@ -15,5 +15,6 @@ $(document).ready(()=>{
         $(".overlay").fadeIn();
     },()=>{
         $(".overlay").fadeOut();
+        
     })
 })
