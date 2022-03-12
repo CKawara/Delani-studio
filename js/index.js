@@ -11,4 +11,9 @@ $(document).ready(()=>{
         $("#product .description").toggle();
         $("#product img").toggle();
     })
+    $(".port-item").hover(($this)=>{
+        $(".overlay").fadeIn();
+    },()=>{
+        $(".overlay").fadeOut();
+    })
 })
