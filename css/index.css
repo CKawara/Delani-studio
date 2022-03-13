@@ -110,3 +110,10 @@ form{
     border-radius: 30px;
     padding: 15px;
 }
+#socials{
+    text-align: center;
+    padding: 2%;
+}
+#socials img{
+    padding: 1%;
+}
