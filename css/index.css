@@ -85,3 +85,12 @@
     text-align: left;
 
 }
+#contact{
+    background: url("/assets/backgrounds/c_image.jpg");
+    padding: 5%;
+    color: white;
+}
+.form-control{
+    background-color: rgba(0, 0, 0, 0);
+}
+
