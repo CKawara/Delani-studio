@@ -1,8 +1,8 @@
-# personal-portfolio
+## Delani-Studio
 This is a landing page of a studio called Delani studio. It is a software development studio that offers various services like design, development and product management. The site is built using HTML, CSS and javascript. It uses jQuery for various effects on the site and mailchimp to track all the messages and email from the users.
 
 ## Demo
-Here's the live demo 
+Here's the live demo https://ckawara.github.io/Delani-studio/
 
 ## Setup and Installation
 1. Fork the repository
