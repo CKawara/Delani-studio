@@ -11,10 +11,10 @@ $(document).ready(()=>{
         $("#product .description").toggle();
         $("#product img").toggle();
     })
-    $(".port-item").hover(($this)=>{
+    $(".port-item").hover(()=>{
         $(".overlay").fadeIn();
     },()=>{
         $(".overlay").fadeOut();
-        
+
     })
 })
