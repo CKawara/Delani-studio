@@ -85,12 +85,28 @@
     text-align: left;
 
 }
+form{
+    text-align: center;
+}
 #contact{
     background: url("/assets/backgrounds/c_image.jpg");
-    padding: 5%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 3%;
     color: white;
 }
 .form-control{
-    background-color: rgba(0, 0, 0, 0);
+    background-color: transparent;
+    color: white;
 }
-
+.form-control:focus{
+    background-color: transparent;
+    color: white;
+}
+.btn{
+    color: white;
+    background-color: transparent;
+    border: solid 1px white;
+    border-radius: 30px;
+    padding: 15px;
+}
