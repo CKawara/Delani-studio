@@ -59,4 +59,10 @@ $(document).ready(()=>{
         $("#work8 .overlay").fadeOut();
 
     })
+    $("button").click(()=>{
+        if($("#inputName").val()== '' || $("#inputEmail").val()== '' || $("#inputMessage").val()== ''){
+            alert('fill all forms!!');
+        }else
+        alert("Thank you for contacting us.Your message has been received");
+    })
 })
