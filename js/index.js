@@ -20,5 +20,10 @@ $(document).ready(()=>{
             alert('fill all forms!!');
         }else
         alert("Thank you for contacting us.Your message has been received");
+
+        // to enable the input fields to auto clear after submitting
+        $("#inputName").val("");
+        $("#inputEmail").val("");
+        $("#inputMessage").val("");
     })
 })
