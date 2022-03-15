@@ -6,7 +6,7 @@ Here's the live demo https://ckawara.github.io/Delani-studio/
 
 ## Setup and Installation
 1. Fork the repository
-2. clone 
+2. clone https://github.com/CKawara/Delani-studio.git
 3. Add and commit changes
 
 ## Requirements
